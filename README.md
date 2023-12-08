@@ -6,7 +6,7 @@ The company's manager has detected a drop in team performance, with absenteeism 
 
 ## Features 
 
-We used powerBi to explore the given dataset to uncover relationships between the rate of absenteeism and work related factors or employee related factors and then created an interactive dashboard. DAX was also used to create new features to pinpoint correctly the possible reasons for the increased rates of absenteeism and if the increased rates had a particular trend. <br> 
+We used Power BI to explore the given dataset to uncover relationships between the rate of absenteeism and work related factors or employee related factors and then created an interactive dashboard. DAX was also used to create new features to pinpoint correctly the possible reasons for the increased rates of absenteeism and if the increased rates had a particular trend. <br> 
 
 ## Tools Used
 
