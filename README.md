@@ -23,7 +23,7 @@ After proper analysis, a dashboard was built by the team which can be seen below
 
 ## Conclusion
 
-It was discovered that most people who were absent most of the times where of a certain age range, and the larger number of employees were of this age range, The companies workforce consisted of mainly high school certificate holders who might be less professional, We also discovered that the absenteesim peak was in Spring. The social life of workers also contributed to the level of abenteeism. The following recommendations were made to the company:
+It was discovered that most people who were absent most of the times where of a certain age range, and the larger number of employees were of this age range, The company's workforce consisted of mainly high school certificate holders who might be less professional, We also discovered that the absenteesim peak was in Spring. The social life of workers also contributed to the level of absenteeism. The following recommendations were made to the company:
 
 * Optimize workload distribution during spring because workers tend to want to take breaks during spring.
 * Review employment policies to reflect intake of more skilled personnel. 
